@@ -1,5 +1,4 @@
-- Shrimp fry
-- send help
+h
 
 <!---
 naidiel/naidiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
